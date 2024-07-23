@@ -1,7 +1,7 @@
 {
   "name": "product-data",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "json-server --watch ./data/db.json"
   },
